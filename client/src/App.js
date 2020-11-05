@@ -1,8 +1,9 @@
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "./App.css";
-import Nav from "./components/Nav";
-import Form from "./pages/Form";
+import Footer from "./components/Footer";
+import Nav from "./components/NavBar/Nav";
+import Contact from "./pages/Contact";
 import Home from "./pages/Home";
 import Project from "./pages/Projects";
 
@@ -10,13 +11,13 @@ function App() {
   return (
     <Router>
       <div>
-        {/* TODO make a navv component */}
         <Nav />
         <Switch>
           <Route exact path="/project" component={Project} />
-          <Route exact path="/form" component={Form} />
+          <Route exact path="/contact" component={Contact} />
           <Route path="/" component={Home} />
         </Switch>
+        <Footer />
       </div>
     </Router>
   );
