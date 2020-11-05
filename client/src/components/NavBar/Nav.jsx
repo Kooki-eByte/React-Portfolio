@@ -24,10 +24,10 @@ export default function Nav() {
                             </li>
                             <li className="nav-item">
                                 <Link
-                                    to="/portfolio"
-                                    className={window.location.pathname === "/portfolio" ? "nav-link active" : "nav-link"}
+                                    to="/project"
+                                    className={window.location.pathname === "/project" ? "nav-link active" : "nav-link"}
                                 >
-                                    Portfolio
+                                    Projects
                                 </Link>
                             </li>
                             <li className="nav-item">
