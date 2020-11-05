@@ -1,6 +1,22 @@
 [
     {
-        "name": "Forage",
+        "name": "Forage Full-Stack Web App",
+        "image": "/images/project2.png",
+        "alt": "Forage",
+        "url": "https://forage-mealplan.herokuapp.com/",
+        "github" : "https://github.com/Kooki-eByte/Forage",
+        "information": "Forage is a web application made by me and two other graduates of the UCF coding bootcamp. This Web App utilizes Handlebars, JavaScript, Express, node.js, new API's and packages to create a great experience throughout the webpage."
+    },
+    {
+        "name": "Eat-Da-Burger Heroku App",
+        "image": "/images/example.png",
+        "alt": "Eat-da-burger",
+        "url": "https://young-meadow-39355.herokuapp.com/",
+        "github" : "https://github.com/Kooki-eByte/Eat-Burger-Simulator",
+        "information": "A app that uses node, express, mysql, and handlebars to achieve a user experience that lets you create a burger by inputting a name and display the burger that you can then EAT-DA-BURGER!"
+    },
+    {
+        "name": "Project 3",
         "image": "../images/project2.png",
         "alt": "Forage",
         "url": "heroku link",
@@ -8,7 +24,7 @@
         "information": "info of project here"
     },
     {
-        "name": "Forage",
+        "name": "Project 4",
         "image": "../images/project2.png",
         "alt": "Forage",
         "url": "heroku link",
@@ -16,7 +32,7 @@
         "information": "info of project here"
     },
     {
-        "name": "Forage",
+        "name": "Project 5",
         "image": "../images/project2.png",
         "alt": "Forage",
         "url": "heroku link",
@@ -24,23 +40,7 @@
         "information": "info of project here"
     },
     {
-        "name": "Forage",
-        "image": "../images/project2.png",
-        "alt": "Forage",
-        "url": "heroku link",
-        "github" : "repo link",
-        "information": "info of project here"
-    },
-    {
-        "name": "Forage",
-        "image": "../images/project2.png",
-        "alt": "Forage",
-        "url": "heroku link",
-        "github" : "repo link",
-        "information": "info of project here"
-    },
-    {
-        "name": "Forage",
+        "name": "Project 6",
         "image": "../images/project2.png",
         "alt": "Forage",
         "url": "heroku link",
