@@ -1,7 +1,7 @@
 [
     {
         "name": "Forage Full-Stack Web App",
-        "image": "/images/project2.png",
+        "image": "../images/project2.png",
         "alt": "Forage",
         "url": "https://forage-mealplan.herokuapp.com/",
         "github" : "https://github.com/Kooki-eByte/Forage",
@@ -9,7 +9,7 @@
     },
     {
         "name": "Eat-Da-Burger Heroku App",
-        "image": "/images/example.png",
+        "image": "../images/example.png",
         "alt": "Eat-da-burger",
         "url": "https://young-meadow-39355.herokuapp.com/",
         "github" : "https://github.com/Kooki-eByte/Eat-Burger-Simulator",
@@ -17,7 +17,7 @@
     },
     {
         "name": "Work-Day-Scheduler",
-        "image": "/images/workSchedule.png",
+        "image": "../images/workSchedule.png",
         "alt": "work day scheduler",
         "url": "https://kooki-ebyte.github.io/Work-Day-Scheduler/",
         "github" : "https://github.com/Kooki-eByte/Work-Day-Scheduler",
@@ -25,7 +25,7 @@
     },
     {
         "name": "Note-App-Express",
-        "image": "/images/noteApp.png",
+        "image": "../images/noteApp.png",
         "alt": "Note App Express",
         "url": "https://ch-note-app-express.herokuapp.com/",
         "github" : "https://github.com/Kooki-eByte/Note-App-Express",
@@ -33,7 +33,7 @@
     },
     {
         "name": "React-User-Directory",
-        "image": "/images/userDirectory.png",
+        "image": "../images/userDirectory.png",
         "alt": "React User Directory",
         "url": "https://kooki-ebyte.github.io/React-User-Directory/",
         "github" : "https://github.com/Kooki-eByte/React-User-Directory",
@@ -41,7 +41,7 @@
     },
     {
         "name": "PWA-Budget-Tracker",
-        "image": "/images/budgetTracker.png",
+        "image": "../images/budgetTracker.png",
         "alt": "Pwa Budget Tracker",
         "url": "https://tracking-expenses-pwa.herokuapp.com/",
         "github" : "https://github.com/Kooki-eByte/PWA-Budget-Tracker",
