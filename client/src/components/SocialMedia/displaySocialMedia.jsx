@@ -26,8 +26,6 @@ export default function DispaySocialMedia() {
                     </Col>
                 </Row>
             </Col>
-            <Col size="lg-8">
-            </Col>
         </Row>
     )
 }
