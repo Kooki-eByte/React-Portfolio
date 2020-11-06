@@ -16,35 +16,35 @@
         "information": "A app that uses node, express, mysql, and handlebars to achieve a user experience that let you create a burger by inputting a name and display the burger that you can then EAT-DA-BURGER!"
     },
     {
-        "name": "Project 3",
-        "image": "../images/project2.png",
-        "alt": "Forage",
-        "url": "heroku link",
-        "github" : "repo link",
+        "name": "Work-Day-Scheduler",
+        "image": "/images/workSchedule.png",
+        "alt": "work day scheduler",
+        "url": "https://kooki-ebyte.github.io/Work-Day-Scheduler/",
+        "github" : "https://github.com/Kooki-eByte/Work-Day-Scheduler",
+        "information": "A simple calendar application that allows the user to save events for each hour of the day starting from 9 to 17 (9 - 5). This app will run in the browser and feature dynamically updated HTML and CSS powered by jQuery."
+    },
+    {
+        "name": "Note-App-Express",
+        "image": "/images/noteApp.png",
+        "alt": "Note App Express",
+        "url": "https://ch-note-app-express.herokuapp.com/",
+        "github" : "https://github.com/Kooki-eByte/Note-App-Express",
+        "information": "This project is a Note App using node.js and express.js as the backend. This app is a browser-ready note taker that you can have a subject and have content inside for the actual bit of notes. Once you are done making your notes you can save the note and it will appear on the left hand side for you to click back and see your previously written note(s). It has a easy-going interface with a pleasant color scheme to not irritate the eyes. This is all useful thanks to jQuery, express, and the json file to be able to make a dynamic system of writing files and saving them for later use."
+    },
+    {
+        "name": "React-User-Directory",
+        "image": "/images/userDirectory.png",
+        "alt": "React User Directory",
+        "url": "https://kooki-ebyte.github.io/React-User-Directory/",
+        "github" : "https://github.com/Kooki-eByte/React-User-Directory",
         "information": "info of project here"
     },
     {
-        "name": "Project 4",
-        "image": "../images/project2.png",
-        "alt": "Forage",
-        "url": "heroku link",
-        "github" : "repo link",
-        "information": "info of project here"
-    },
-    {
-        "name": "Project 5",
-        "image": "../images/project2.png",
-        "alt": "Forage",
-        "url": "heroku link",
-        "github" : "repo link",
-        "information": "info of project here"
-    },
-    {
-        "name": "Project 6",
-        "image": "../images/project2.png",
-        "alt": "Forage",
-        "url": "heroku link",
-        "github" : "repo link",
-        "information": "info of project here"
+        "name": "PWA-Budget-Tracker",
+        "image": "/images/budgetTracker.png",
+        "alt": "Pwa Budget Tracker",
+        "url": "https://tracking-expenses-pwa.herokuapp.com/",
+        "github" : "https://github.com/Kooki-eByte/PWA-Budget-Tracker",
+        "information": "In this project the user will be able to add expenses and deposits to their budget with or without a connection. When a user enters a transaction offline, they should populate the chart when brought back online."
     }
 ]
