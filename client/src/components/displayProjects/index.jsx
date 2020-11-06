@@ -6,7 +6,7 @@ export default function displayProjects({name, image, alt, url, github, informat
     return (
         <Col size="lg-4 md-6 sm-12" className="mb-4 mt-4">
             <div className="card">
-                <img src={image} className="card-img-top" alt={alt} />
+                <img src={require(image)} className="card-img-top" alt={alt} />
                 <div className="card-body">
                     <h5 className="card-title">{name}</h5>
                     <p className="card-text">{information}</p>

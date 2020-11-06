@@ -12,7 +12,7 @@ export default function Home() {
                 <hr className="hor-line"/>
                 <Row>
                     <Col size="lg-6">
-                        <img src={cristian} alt="Cristian"/>
+                        <img src={require(cristian)} alt="Cristian"/>
                     </Col>
                     <Col size="lg-1">
                     </Col>
