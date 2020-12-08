@@ -13,8 +13,8 @@ function App() {
       <div>
         <Nav />
         <Switch>
-          <Route exact path="/project" component={Project} />
-          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/React-Portfolio/project" component={Project} />
+          <Route exact path="/React-Portfolio/contact" component={Contact} />
           <Route path="/" component={Home} />
         </Switch>
         <Footer />

@@ -4,7 +4,14 @@ import { withRouter } from 'react-router-dom';
 const Header = (props) => {
 
     const pathname = props.location.pathname.slice(1)
-    const path = pathname === "" ? "Home" : pathname.charAt(0).toUpperCase() + pathname.slice(1)
+    let path;
+    if (pathname === "React-Portfolio/project") {
+        path = "Projects"
+    } else if (pathname === "React-Portfolio/contact") {
+        path = "Contact Me"
+    } else {
+        path = "Home"
+    }
     return (
         <React.Fragment>
             <header>
